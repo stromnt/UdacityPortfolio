@@ -10,7 +10,11 @@
     box-sizing: border-box;
 }
 
-html, body, header, footer, section {
+html,
+body,
+header,
+footer,
+section {
     margin: 0 auto;
     padding: 0;
     width: 100%;
@@ -44,7 +48,7 @@ h2 {
     text-align: center;
 }
 
-#logo {
+.logo {
     margin: auto 0;
     width: 6em;
 }

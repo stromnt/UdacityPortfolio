@@ -1,0 +1,18 @@
+<!-- Experiment with SVG edit to create a custom icon -->
+<svg  width="50" height="50" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+  <defs>
+    <linearGradient id="svg_2">
+      <stop stop-color="#0000ff" stop-opacity="0.99609" offset="0"/>
+      <stop stop-color="#ffffff" offset="1"/>
+    </linearGradient>
+    <linearGradient id="svg_6" x1="0" y1="0" x2="1" y2="0" spreadMethod="reflect">
+      <stop stop-color="#333333" stop-opacity="0.99609" offset="0"/>
+      <stop stop-color="#1b821b" stop-opacity="0.99609" offset="0.94403"/>
+    </linearGradient>
+  </defs>
+  <g class="layer">
+    <title>Layer 1</title>
+    <path stroke="url(#svg_2)" fill="url(#svg_6)" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" opacity="0.75" d="m1.63579,1.48591l46.70306,6.11951l0.46624,32.86272c0,0 -46.66751,7.92639 -46.54204,7.92639c0.12544,0 39.01504,-13.77372 39.01504,-13.77372c0,0 -39.01504,1.16946 -38.88958,1.16946c0.12544,0 37.88597,-11.04496 37.88597,-11.04496c0,0 -39.01504,-1.94911 -39.01504,-1.94911c0,0 38.88958,-7.79644 38.88958,-7.79644c0,0 -38.51323,-13.51383 -38.51323,-13.51383l0,0l0,-0.00002z" id="svg_4"/>
+  </g>
+</svg>
